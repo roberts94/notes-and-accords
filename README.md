@@ -5,9 +5,9 @@ The final write-up is included in: <br>
 * **report.pdf** 
 
 The Python code is broken out into three Jupyter notebooks focusing on data cleaning, exploratory analysis, and model fitting:<br>
-* **data_cleaning.ipynb** <br>
-* **exploratory_analysis.ipynb** <br>
-* **model_fitting.ipynb**
+* **code/data_cleaning.ipynb** <br>
+* **code/exploratory_analysis.ipynb** <br>
+* **code/model_fitting.ipynb**
 
 The data set was sourced from https://www.kaggle.com/sagikeren88/fragrances-and-perfumes, though it appears to no longer be available.
 
